@@ -7,6 +7,7 @@ public class D2Test {
 	public void d1Test()
 	{
 		System.out.println("How are you?");
+		System.out.println("I am fine");
 	}
 
 }
